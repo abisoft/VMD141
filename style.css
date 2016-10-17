@@ -147,6 +147,10 @@ overflow: hidden;
     width: 140px;
 }
 
+.one-quarter {
+    width: 220px;
+}
+
 .alpha {
     margin-left: 0;
 }
@@ -168,3 +172,111 @@ ul {
     max-width: 100%;
     height: auto;
 }
+
+body {
+    color: #a59e9b;
+    background-color: #dcdfe1;
+}
+
+h1 {
+    color: #55677b;
+}
+
+h2 {
+    color: #333;
+}
+
+h3 {
+    color: #333;
+}
+
+h4 {
+    color: #333;
+}
+
+a {
+    color: #fff;
+}
+
+.header {
+    background-color: #55677b;
+}
+
+.main {
+    background-color: #dcdfe1;
+}
+
+footer {
+    background-color: #55677b;
+}
+
+footer h4 {
+    color: #fff;
+}
+
+.footer-bottom {
+    background-color: #190800;
+    color: #fff;
+}
+
+.page-header {
+    background-color: #cfe;
+    color: #fff;
+}
+
+.message {
+    background-color: #0fc;
+}
+
+.message h3 {
+    color: #fff;
+}
+
+.contentbox {
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 70px;
+}
+
+.contentbox li {
+    color: #190800;
+}
+
+/*not working! need help*/
+.contentbox-beige {
+    background-color: #ffffe6;
+    padding: 10px;
+    margin-bottom: 70px;
+}
+
+.contentbox-turquoise{
+    background-color: #cfe;
+    padding: 10px;
+    margin-bottom: 70px;
+}
+
+.content>img {
+    float: left;
+    margin-right: 15px;
+}
+
+.content>img {
+    float: left;
+    margin-right: 15px;
+}
+
+.tile {
+    background-color: #cfe;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.blog-tease {
+    color: #fff;
+}
+
+.blog-tease h2 {
+    color: #fff;
+}
+
